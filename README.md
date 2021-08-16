@@ -1,2 +1,2 @@
-# Data-Base-Management-System---DBMS
-Event Management System Using SQL
+# Event-Management
+Event Management using SQL
